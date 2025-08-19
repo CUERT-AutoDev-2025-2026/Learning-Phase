@@ -78,7 +78,8 @@ These are just some of the basic Linux commands that developers should know. By 
 It's recommended to watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics)
 
 
-##### *You don't need to do this now*
+##### *You don't need to do this now. You may follow along with the course without needing to install a Linux distro. Do this if you aren't comfortable with the course's interactive content and would like to follow along using a local Linux installation.*
+
 If you would like to install Ubuntu (a Linux Distribution) on your machine, please follow [this](https://www.youtube.com/watch?v=Z-Hv9hOaKso&t=576s) guide. Our version of ROS 1 (Noetic) is highly compatible with Ubuntu 20.04 Focal Fossa; therefore, we recommend using this version. 
 
 Virtual machines aren't encouraged. Dual boot provides significantly better performance with only the extra required storage space as the main downside.
