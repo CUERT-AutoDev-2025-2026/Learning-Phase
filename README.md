@@ -75,10 +75,13 @@ To summarize, here are some of the most important Linux commands that you should
 - `vi`: A powerful text editor.
 
 These are just some of the basic Linux commands that developers should know. By mastering these commands, you can perform common tasks on the command line and become more efficient in your work.
-It's recommended to watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics)
 
+It's recommended to watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics).
+If you are unable to 'audit' the Coursera course, watch this free course at [Udacity](https://learn.udacity.com/ud206?version=1.0.1&lessonKey=daf05b17-bac3-4c4a-913a-8314bb59ea76&conceptKey=8cbbf371-0809-44eb-a502-20815e1b909c)
 
-##### *You don't need to do this now. You may follow along with the course without needing to install a Linux distro. Do this if you aren't comfortable with the course's interactive content and would like to follow along using a local Linux installation.*
+---
+
+##### *You don't need to do the following now. You may follow along with the course without needing to install a Linux distro. Do this if you aren't comfortable with the course's interactive content and would like to follow along using a local Linux installation.*
 
 If you would like to install Ubuntu (a Linux Distribution) on your machine, please follow [this](https://www.youtube.com/watch?v=Z-Hv9hOaKso&t=576s) guide. Our version of ROS 1 (Noetic) is highly compatible with Ubuntu 20.04 Focal Fossa; therefore, we recommend using this version. 
 
