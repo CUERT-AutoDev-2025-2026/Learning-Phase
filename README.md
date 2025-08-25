@@ -32,7 +32,7 @@ Watch this [playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-
 
 As a developer, it is important to have a basic understanding of the Linux OS.
 
-Watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics)
+Watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics) or this course at [Udacity](https://www.udacity.com/course/shell-workshop--ud206)
 
 To summarize, here are some of the most important Linux commands that you should know:
 
@@ -77,7 +77,7 @@ To summarize, here are some of the most important Linux commands that you should
 These are just some of the basic Linux commands that developers should know. By mastering these commands, you can perform common tasks on the command line and become more efficient in your work.
 
 It's recommended to watch this course at [Coursera](https://www.coursera.org/learn/codio-unix-system-basics).
-If you are unable to 'audit' the Coursera course, watch this free course at [Udacity](https://learn.udacity.com/ud206?version=1.0.1&lessonKey=daf05b17-bac3-4c4a-913a-8314bb59ea76&conceptKey=8cbbf371-0809-44eb-a502-20815e1b909c)
+If you are unable to 'audit' the Coursera course, watch this free course at [Udacity](https://www.udacity.com/course/shell-workshop--ud206)
 
 ---
 
